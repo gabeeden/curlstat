@@ -1,0 +1,7 @@
+flags: {}
+packages:
+  - .
+extra-deps:
+  - curlhs-0.1.6@sha256:ac8dbe0348ce66746774f019fe62dbdaf40a200bed62f5b7fb0ecb9bd11cfa1c,4107
+  - rtld-0.0.2@sha256:ebf8a2ae1cd04e829f5b86b5638ed66139a76cbbe75ae43394d37cb9bd8f5037,1653
+resolver: lts-14.20
